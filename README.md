@@ -8,6 +8,9 @@ Transform any camera into real-time ASCII art, with AI person segmentation (YOLO
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-purple?style=flat-square)
 
 ---
+## Demo
+
+![Demo](./assets/duck.gif)
 
 ## ✨ Features
 
