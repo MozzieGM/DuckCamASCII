@@ -86,16 +86,6 @@ DuckCamASCII/
 
 ---
 
-## 🛠️ Server Arguments
-
-| Argument | Default | Description |
-|-----------|--------|-----------|
-| `--camera` | `0` | Camera index |
-| `--port` | `9999` | TCP port |
-| `--quality` | `70` | JPEG quality (1-100) |
-
----
-
 ## 📦 Dependencies
 
 | Package | Usage |
